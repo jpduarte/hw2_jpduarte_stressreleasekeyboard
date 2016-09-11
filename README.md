@@ -10,21 +10,17 @@ There are four switches for each group:
 3. Switch 3: MNOPQRS
 4. Switch 4: TUVWXYZ
 
-Fifth siwtch is for space.
-![KeyBoard Initial State](https://drive.google.com/drive/u/0/folders/0Bwp10bnNHRKxTkhoR1FMZUFmUTg)
+Fifth siwtch is for space:
+
+![](https://googledrive.com/host/0Bwp10bnNHRKxTkhoR1FMZUFmUTg/keyboard1.png)
 
 Once one choose group 3, using switch 3, the keyboard screen looks like this:
 
+![](https://googledrive.com/host/0Bwp10bnNHRKxTkhoR1FMZUFmUTg/keyboard2.png)
 
 Then again swith 3 is pressed, and keyboard screen looks like:
 
--------
-| |Q|
--------
-| | |R|
--------
-| ||
--------
+![](https://googledrive.com/host/0Bwp10bnNHRKxTkhoR1FMZUFmUTg/keyboard3.png)
 
 Finally switch 2 is pressed, and letter R is choosen. Then, no more than 3 pressing are need. Therefore this technique is like a binary encoding since 3 bits are needed, and can be used for 2^8 options.
 
