@@ -6,9 +6,13 @@ In this HW, a stress release keyboard is constructed using ReadBear Duo board, b
 The technique used here is similar to a five-key technique in the sence that five keys are used, but it is also similar to multi-tap technique because, in order to choose a letter, the user need to press more than once the switches. However, the technique implemented does not need too many pressing of switches as in a five-key technique (like from going from A to K, 9 pressing) or multi-tap (7 pressing to choose S, if only five switches are used). It uses less pressing, because as you choose a certain group, that group sub-devided itself into four new group; then, no more than three pressing are needed to choose a letter. The following figures shows an example while choosen the letter R:
 
 There are four switches for each group:
+
 1. Switch 1: ABCDEF
+
 2. Switch 2: GHIJKL
+
 3. Switch 3: MNOPQRS
+
 4. Switch 4: TUVWXYZ
 
 Fifth switch is for space:
@@ -33,6 +37,9 @@ The volatile variables **updatekeyboard** and **buttonpressed** are used to keep
 
 ![](https://googledrive.com/host/0Bwp10bnNHRKxTkhoR1FMZUFmUTg/helloworldhw2.png)
 
+# How you constructed the physical device?
 
+First, an array of switches were constructed in a breadboard, so the code could be implemented and tested. The switches are implemented is a 10kOhm resistance in series for protection, the picture is self-explanatory:
 
+![](https://googledrive.com/host/0Bwp10bnNHRKxTkhoR1FMZUFmUTg/IMG_4179.png)
 
