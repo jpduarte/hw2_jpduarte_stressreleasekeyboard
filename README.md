@@ -41,5 +41,5 @@ The volatile variables **updatekeyboard** and **buttonpressed** are used to keep
 
 First, an array of switches were constructed in a breadboard, so the code could be implemented and tested. The switches are implemented is a 10kOhm resistance in series for protection, the picture is self-explanatory:
 
-![](https://googledrive.com/host/0Bwp10bnNHRKxTkhoR1FMZUFmUTg/IMG_4179.png)
+![](https://googledrive.com/host/0Bwp10bnNHRKxTkhoR1FMZUFmUTg/IMG_4179.jpg)
 
