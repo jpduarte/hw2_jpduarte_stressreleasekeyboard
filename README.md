@@ -60,3 +60,7 @@ One a user is relaxing with the wrap, and press it enough, the electrodes in the
 Finally, the video test for the stress release bubble wrap keyboard is found in the following link:
 
 [VIDEO TEST "stress release bubble wrap keyboard"](https://drive.google.com/file/d/0Bwp10bnNHRKxN3huV1c0TUxsc1k/view?usp=sharing).
+
+#Reflection:
+I learned interrups, and refreshed a lot of coding in C. The final code is very clean and easy to understand. I also learned a lot about keyboard styles.
+In harware I learned about siwtches and how difficult it is to make it work well, a good surface contact is very important and total area of pad connections. The HW difficulty is expected for this level of course.
