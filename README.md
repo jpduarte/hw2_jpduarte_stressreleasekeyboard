@@ -45,7 +45,7 @@ First, an array of switches were constructed in a breadboard, so the code could 
 
 The test video for the first design can be found in:
 
-[VIDEO TEST BREADBOARD](https://drive.google.com/drive/u/0/folders/0Bwp10bnNHRKxZUp4dEtjd1dUeG8).
+[VIDEO TEST BREADBOARD](https://drive.google.com/file/d/0Bwp10bnNHRKxTC1yQ1p0TWRrUDA/view?usp=sharing).
 
 Once the breadboard was constructed, the stress release bubble wrap keyboard was constructed. It was build using three layer of bubble wrap, the back layer has the lines for VDD, and the front layer has 5 lines which are used for the switches. The lines were consctructed using cupper tape. Then, small holes (approximatly 2x2mm) were made in the middle bubble wrap layer. 
 
@@ -59,4 +59,4 @@ One a user is relaxing with the wrap, and press it enough, the electrodes in the
 
 Finally, the video test for the stress release bubble wrap keyboard is found in the following link:
 
-[VIDEO TEST "stress release bubble wrap keyboard"](https://drive.google.com/drive/u/0/folders/0Bwp10bnNHRKxZUp4dEtjd1dUeG8).
+[VIDEO TEST "stress release bubble wrap keyboard"](https://drive.google.com/file/d/0Bwp10bnNHRKxN3huV1c0TUxsc1k/view?usp=sharing).
