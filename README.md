@@ -11,24 +11,10 @@ There are four switches for each group:
 4. Switch 4: TUVWXYZ
 
 Fifth siwtch is for space.
-
------------------------------
-|         |ABCDEF  |
------------------------------
-|TUVWXYZ  |        |GHIJKL  |
------------------------------
-|         |MNOPQRS |
------------------------------
+![KeyBoard Initial State](https://drive.google.com/drive/u/0/folders/0Bwp10bnNHRKxTkhoR1FMZUFmUTg)
 
 Once one choose group 3, using switch 3, the keyboard screen looks like this:
 
------------
-|   |MN|
------------
-|S  |  |OP|
------------
-|   |QR|
-----------
 
 Then again swith 3 is pressed, and keyboard screen looks like:
 
